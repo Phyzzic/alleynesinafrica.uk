@@ -49,8 +49,8 @@
     },
     {
       "id": "student-04",
-      "label": "Student 04",
-      "year": "BLANK",
+      "label": "Eve Perry",
+      "year": "Year 12",
       "focus": "",
       "bio": "BLANK",
       "photo": "",
@@ -60,19 +60,19 @@
     },
     {
       "id": "student-05",
-      "label": "Student 05",
-      "year": "BLANK",
+      "label": "Georgia Brumby",
+      "year": "Year 12",
       "focus": "",
-      "bio": "BLANK",
+      "bio": "Hi, my name is Georgia, and I’m fundraising for a volunteer trip to Africa. During this experience, I’ll be helping in local schools by teaching, coaching sports, and assisting with building projects. This is an incredible opportunity to make a positive impact, learn from a different culture, and contribute to communities that need support. Funds raised will go towards travel, accommodation, program fees, and materials needed for the trip. Any donation, no matter the size, is greatly appreciated. Thank you for helping me make a difference!",
       "photo": "",
-      "raised": 0,
-      "target": 1500,
-      "donateUrl": "#"
+      "raised": 555,
+      "target": 800,
+      "donateUrl": "https://https://gofund.me/d9342171b"
     },
     {
       "id": "student-06",
-      "label": "Student 06",
-      "year": "BLANK",
+      "label": "Olivia Swainston",
+      "year": "Year 12",
       "focus": "",
       "bio": "BLANK",
       "photo": "",
