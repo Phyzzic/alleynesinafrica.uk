@@ -1,0 +1,161 @@
+{
+  "group": {
+    "title": "Alleyne's Academy · Kenya expedition",
+    "tagline": "",
+    "raised": 0,
+    "target": 0,
+    "supporters": 0,
+    "currency": "GBP",
+    "donateUrl": "#donate",
+    "update": "Donations to this card support everyone travelling, not a single student."
+  },
+  "socials": {
+    "facebook": "https://www.facebook.com/p/Alleynes-Academy-100090068900788/",
+    "instagram": "https://www.instagram.com/alleynesinafrica/"
+  },
+  "students": [
+    {
+      "id": "student-01",
+      "label": "Annabel Danks",
+      "year": "Year 12",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-02",
+      "label": "Hollie Upton-Cashmore",
+      "year": "Year 12",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-03",
+      "label": "Ava Cheadle",
+      "year": "Year 12",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-04",
+      "label": "Student 04",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-05",
+      "label": "Student 05",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-06",
+      "label": "Student 06",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-07",
+      "label": "Student 07",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-08",
+      "label": "Student 08",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-09",
+      "label": "Student 09",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-10",
+      "label": "Student 10",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-11",
+      "label": "Student 11",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-12",
+      "label": "Student 12",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    },
+    {
+      "id": "student-13",
+      "label": "Student 13",
+      "year": "BLANK",
+      "focus": "",
+      "bio": "BLANK",
+      "photo": "",
+      "raised": 0,
+      "target": 1500,
+      "donateUrl": "#"
+    }
+  ]
+}
